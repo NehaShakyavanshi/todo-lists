@@ -1,0 +1,16 @@
+{
+  "name"         : "todoApp",
+  "version"      : "0.0.0",
+  "description"  : "todo application",
+  "main"         : "server.js",
+  "author"       : "Neha",
+  "dependencies" : {
+    "express"    : "~4.7.2",
+    "mongoose"   : "~3.6.2",
+    "morgan"	 : "~1.2.2",
+    "connect-flash" : "~0.1.1",   
+    "bcrypt-nodejs" : "latest",
+	"body-parser": "~1.5.2",
+	"method-override": "~2.1.2"
+  }
+}
